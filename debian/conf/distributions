@@ -1,0 +1,7 @@
+Origin: metaquanta.com
+Label: metaquanta
+Codename: bullseye
+Architectures: amd64 source
+Components: optional
+Description: Apt repository for my software (and other orphan debs I like)
+SignWith: F241376959EB8023D344406B048041F97C242184

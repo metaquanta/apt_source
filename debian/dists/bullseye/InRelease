@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: metaquanta.com
+Label: metaquanta
+Codename: bullseye
+Date: Fri, 27 Nov 2020 20:31:29 UTC
+Architectures: amd64
+Components: optional
+Description: Apt repository for my software (and other orphan debs I like)
+MD5Sum:
+ db6d324fc193f1055d771e5d1b07a422 2920 optional/binary-amd64/Packages
+ 2973745ce0d54365b02ef8a097b371a2 1447 optional/binary-amd64/Packages.gz
+ 83e32f6cb94082286ac7a7f7ab0cf0c8 156 optional/binary-amd64/Release
+ 1a92163ee5943fceec580bcdfd106979 4085 optional/source/Sources
+ 833ab10c490f3e7d28ad0be62c90c586 1618 optional/source/Sources.gz
+ 573b59d0d62d08787ca3958a1c9635a4 157 optional/source/Release
+SHA1:
+ cada38587e61727a1bb5d024324679759ce898f2 2920 optional/binary-amd64/Packages
+ 6d5f95ad72077b6a2f23245fa745073708ad38a5 1447 optional/binary-amd64/Packages.gz
+ bd0a3610821385e564c391769f22423b033c2a9c 156 optional/binary-amd64/Release
+ 622d5b6383858a3b72412604dd027b0f1504b9cf 4085 optional/source/Sources
+ 0a59c0ca0c2d1007defcce65a3673ca75fb519c8 1618 optional/source/Sources.gz
+ f7d0d4e9f4475f17bb3a271827484b78b4760c2a 157 optional/source/Release
+SHA256:
+ 4fc7e4af7614c9e7ec79075e17472198d66d50f8a29b56cfc01a7dfd00376c2e 2920 optional/binary-amd64/Packages
+ 9d966aaceef85a21874bed74085989b9aebc6700ac397f097f070d49bc6be011 1447 optional/binary-amd64/Packages.gz
+ 5c14ac3d7e72e817e31b8eb49630e28b6baba5d4ca7f5619796f6af2f9e0e413 156 optional/binary-amd64/Release
+ c3a604b7378518cab9898e874fd02d3897da74420ba54315c11d45dddb9daf55 4085 optional/source/Sources
+ 2f322c162db1a150c58e2adda9ddc261993dbdebdcd512c83da87c475bc01e59 1618 optional/source/Sources.gz
+ 8735c5c46f59c334511245f167e6f6b12719c394a7afa48bde28e259fea6577c 157 optional/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE8kE3aVnrgCPTREBrBIBB+XwkIYQFAl/BYiEACgkQBIBB+Xwk
+IYT2sA//V8D5thI/4jFv0adbix1wDpPYqWu/453/cOjkWsgTs2NqXVuihhGxUnyM
+fL9zohqH6LAJ7r6F5rUxxy67LH/hs5LxHQbXRKoVg5HmAYEwpCjUPZpltv11FOO1
+IHh6Q/DV2GW2Hl/ZkS9koVHf0qhfIyZsTE6dpN/uior9KiFm/fpHniNObGDmhSJQ
++6X7LMGH/okjPx5J31Q7DziApdI4n7nWjWD8YfOLUt41xf1RCCBonkZbJf2/Y/Hx
+UMk0crAHWjA9Rmnpvx2JQR8WFwGsvpt5EL1wXDhp7VeNd/pt4S0zfVbXF81Yryjt
+Zf3Cyvg9oPl27DxVdGdv3H9sYymKsGXNqYtYLw66e98b7Xti/I5emoRixMq0jo1r
+SLViOKLYYpyb25tbBPE8nuzqVUM5PvHqDCg4DLBzkvUUM53IsCtCQZArbbS7pd01
+m/oiiqskpIVjY7M9aTQ7y8xLKqyk2JS2nVBA+4M/HLFzHkxu4LUH3tEdfhCAL0JP
+uPe2y6NZu8nPYpQmKuIbEfp5JPM28jbDcx6LgYNiZDPa4VSBhWUUfOTQnEI4GZEf
+U/Txaek5232wlvg2JB46JPOO/yAotXIal4W7G78qtnJD+zyqntXuUxw1XsCY3OLq
+rs/dLbrD3NFS4CvUGDTKNM6Xjhc3WfgE82iELGiVNfG6e65kHGA=
+=od89
+-----END PGP SIGNATURE-----

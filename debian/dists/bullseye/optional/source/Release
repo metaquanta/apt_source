@@ -1,0 +1,5 @@
+Component: optional
+Origin: metaquanta.com
+Label: metaquanta
+Architecture: source
+Description: Apt repository for my software (and other orphan debs I like)
