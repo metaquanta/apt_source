@@ -1,27 +1,27 @@
 Origin: metaquanta.com
 Label: metaquanta
 Codename: bullseye
-Date: Fri, 27 Nov 2020 20:31:29 UTC
+Date: Sat, 02 Jan 2021 21:57:48 UTC
 Architectures: amd64
 Components: optional
 Description: Apt repository for my software (and other orphan debs I like)
 MD5Sum:
- db6d324fc193f1055d771e5d1b07a422 2920 optional/binary-amd64/Packages
- 2973745ce0d54365b02ef8a097b371a2 1447 optional/binary-amd64/Packages.gz
+ 34c12477e4e8aec1770b460b32b4ab30 5221 optional/binary-amd64/Packages
+ 807c1fb4b5b0a20a8b41246bdd54a532 2356 optional/binary-amd64/Packages.gz
  83e32f6cb94082286ac7a7f7ab0cf0c8 156 optional/binary-amd64/Release
  1a92163ee5943fceec580bcdfd106979 4085 optional/source/Sources
  833ab10c490f3e7d28ad0be62c90c586 1618 optional/source/Sources.gz
  573b59d0d62d08787ca3958a1c9635a4 157 optional/source/Release
 SHA1:
- cada38587e61727a1bb5d024324679759ce898f2 2920 optional/binary-amd64/Packages
- 6d5f95ad72077b6a2f23245fa745073708ad38a5 1447 optional/binary-amd64/Packages.gz
+ 55c8988cad3013bf29361ea2448fb66dd8463dd1 5221 optional/binary-amd64/Packages
+ 39695ba05157a8806cfbb94d7d68a90ddf5f4587 2356 optional/binary-amd64/Packages.gz
  bd0a3610821385e564c391769f22423b033c2a9c 156 optional/binary-amd64/Release
  622d5b6383858a3b72412604dd027b0f1504b9cf 4085 optional/source/Sources
  0a59c0ca0c2d1007defcce65a3673ca75fb519c8 1618 optional/source/Sources.gz
  f7d0d4e9f4475f17bb3a271827484b78b4760c2a 157 optional/source/Release
 SHA256:
- 4fc7e4af7614c9e7ec79075e17472198d66d50f8a29b56cfc01a7dfd00376c2e 2920 optional/binary-amd64/Packages
- 9d966aaceef85a21874bed74085989b9aebc6700ac397f097f070d49bc6be011 1447 optional/binary-amd64/Packages.gz
+ 180b82a297bf1ebeb7fc7d832356b18d6a79f64825533f734bc5cd23e42ed420 5221 optional/binary-amd64/Packages
+ 075d5c59349de1eb27575806df7a234bd247274cd4481f21831a0ce8db3a29de 2356 optional/binary-amd64/Packages.gz
  5c14ac3d7e72e817e31b8eb49630e28b6baba5d4ca7f5619796f6af2f9e0e413 156 optional/binary-amd64/Release
  c3a604b7378518cab9898e874fd02d3897da74420ba54315c11d45dddb9daf55 4085 optional/source/Sources
  2f322c162db1a150c58e2adda9ddc261993dbdebdcd512c83da87c475bc01e59 1618 optional/source/Sources.gz

@@ -1,3 +1,21 @@
+Package: alacritty
+Version: 0.7.0-dev
+Architecture: amd64
+Homepage: https://github.com/alacritty/alacritty
+Standards-Version: 3.9.4
+Maintainer: Christian Duerr <contact@christianduerr.com>
+Installed-Size: 5751
+Depends: libuuid1 (>= 2.36.1), libpng16-16 (>= 1.6.37), libbrotli1 (>= 1.0.9), libxcb1 (>= 1.14), libbsd0 (>= 0.10.0), libfreetype6 (>= 2.10.4+dfsg), zlib1g (>= 1:1.2.11.dfsg), libfontconfig1 (>= 2.13.1), libxdmcp6 (>= 1:1.1.2), libxau6 (>= 1:1.0.8), libc6 (>= 2.31), libexpat1 (>= 2.2.10)
+Provides: x-terminal-emulator
+Priority: optional
+Section: x11
+Filename: pool/optional/a/alacritty/alacritty_0.7.0-dev_amd64.deb
+Size: 1678020
+SHA256: 6f43984666536ba24ead47e3bacfe0a25690dac8bf86e8e95025565481722c5a
+SHA1: cb17a22eb0161fb863b1b2c7667c73ff9d633644
+MD5sum: 38d7f6b1af02148c670055c7498214c8
+Description: A fast, cross-platform, OpenGL terminal emulator
+
 Package: efistub-boot
 Version: 0.2.1
 Architecture: amd64
@@ -13,6 +31,27 @@ SHA256: dd4f26af62c6b5b633eb42e22cb01d2dc234d906373c9abdb2397b77197c54a0
 SHA1: 982ed33ff18455a524f1f827916ed955cc629228
 MD5sum: 5c40aa59a8c17e6d14c7ef5891236273
 Description: setup native linux boot stub
+
+Package: greetd
+Version: 0.6.0
+Architecture: amd64
+Vcs-Browser: https://git.sr.ht/~kennylevinsen/greetd/
+Homepage: https://kl.wtf/projects/greetd
+Standards-Version: 3.9.4
+Maintainer: Kenny Levinsen
+Installed-Size: 615
+Depends: libpam0g (>= 1.3.1), libaudit1 (>= 1:3.0), libc6 (>= 2.31), libcap-ng0 (>= 0.7.9)
+Provides: x-display-manager
+Priority: optional
+Section: optional
+Filename: pool/optional/g/greetd/greetd_0.6.0_amd64.deb
+Size: 238228
+SHA256: 3650debfae6bda7366d725659046c37b0aee2fc6b9e90c897d2b520a9d8ddc05
+SHA1: a62e4f915d7736edc846fac038e0fd6d1d838dc6
+MD5sum: 20512c9b947f00f7bb3b3e7e13e856e9
+Description: greetd is a minimal and flexible login manager daemon.
+ greetd is a minimal and flexible login manager daemon that makes no assumptions
+ about what you want to launch.
 
 Package: libuconfig
 Version: 0.8.2b1-1
@@ -76,4 +115,23 @@ Description: Emulated <FN> keyboard layer switching
  <FN> key when combined with certain keys (the arrow keys, the function/media
  keys, and delete) while continuing to be an ordinary accelerator (<LEFTMETA>)
  when combined with other keys.
+
+Package: tuigreet
+Version: 0.2.0
+Architecture: amd64
+Vcs-Browser: https://github.com/mmstick/cargo-deb
+Vcs-Git: https://github.com/mmstick/cargo-deb
+Standards-Version: 3.9.4
+Maintainer: Antoine POPINEAU <antoine.popineau@appscho.com>
+Installed-Size: 904
+Depends: greetd, libc6 (>= 2.31)
+Priority: optional
+Section: optional
+Filename: pool/optional/t/tuigreet/tuigreet_0.2.0_amd64.deb
+Size: 324538
+SHA256: 7417c59da0810f1fcc43c620524a6a71a666df449334ade102a906b223938610
+SHA1: 4002ab790bbab798c23f5a4bac89865f0ed5eeea
+MD5sum: a40910afb9fbe7bf8c4b186d133539d0
+Description: Graphical console greeter for greetd.
+ Graphical console greeter for greetd.
 
